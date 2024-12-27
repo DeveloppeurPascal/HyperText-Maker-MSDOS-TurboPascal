@@ -1,0 +1,125 @@
+msg = gb + f
+.msg_gb=
+ F1 Other Menu
+ F5 Select Field
+ F9  Test Hyper Text
+ Current
+ F2 Save HTD
+ F6 Delete Field
+ F10 Quit Program
+ Start at
+ F3 Load HTD
+ F7 Select Page Color
+ P   Previous page
+ F4 New Page
+ F8 Erase this page
+ N   Next Page
+ ^F5
+ ^F9 Go to page
+ ^F2 Start page here
+ ^F6
+ S   Start page
+ ^F3 Update all pages
+ ^F7 Change all colors
+ F   First page
+ ^F4 Update page
+ ^F8
+ L   Last Page
+Name of the going page ?
+This page is not in memory, abort operation...
+Delete this field ?
+New file, please select the first page.
+Command >
+This is the last page...
+This is the first page...
+Do you want to select an other color ?
+Erase this page ?
+Before, choose an other start page !
+Do you want to test your Hyper-Text ?
+Do you want to quit this program ?
+Is this page going to be the start page ?
+Update all pages of this HTD ?
+Load and replace this page ?
+Change color for all pages ?
+Enter the page name...
+Hyper-Text to link ?
+HTD File Name ?
+Cursor movements are made with arrow keys.
+Type your text as you want.
+INS       insert a space.
+DEL       delete current character.
+BACKSPACE delete previous character.
+F1        displays this screen.
+F2        save the current page.
+F3        load an other page.
+F4        insert a new line.
+F5        delete the current line.
+F10       quit the program.
+Save the current page ?
+Load a new page ?
+What page do you want to edit ?
+Do you want to save your Hyper-Text ?
+Do you want to load an other Hyper-Text ?
+----------
+.msg_f=
+ F1 Autre Menu
+ F5 Choisi Zone
+ F9  Test Hyper Text
+ Actuel
+ F2 Sauve HTD
+ F6 Efface Zone
+ F10 Sortie
+ D‚bute …
+ F3 Charge HTD
+ F7 Colorise 1 page
+ P   Page Pr‚c‚dente
+ F4 Nouvelle Page
+ F8 Efface cette page
+ N   Page Suivante
+ ^F5
+ ^F9 Va … Page
+ ^F2 D‚part ici
+ ^F6
+ S   Page d‚part
+ ^F3 MAJ toutes pages
+ ^F7 Colorise toute page
+ F   PremiŠre page
+ ^F4 MAJ 1 page
+ ^F8
+ L   DerniŠre page
+A quelle page voulez-vous aller ?
+Cette page n'est pas en m‚moire, op‚ration abandonn‚e...
+Effacer cette zone ?
+Nouveau fichier, choisissez une page.
+Commande >
+Cette page est la derniŠre...
+Cette page est la premiŠre...
+Choisir une autre couleur ?
+Effacer cette page ?
+Choisissez d'abord une page de d‚part !
+Tester votre Hyper-Text ?
+Sortir du programme ?
+Mettre cette page comme page de d‚part ?
+Mise … jour de toutes les pages de ce HTD ?
+Charger et effacer cette page ?
+Changer la couleur de toutes les pages ?
+Nom de la page...
+Hyper-Text … cr‚er ?
+Nom du fichier HTD ?
+Les mouvements du curseur sont effectu‚s … l'aide des flŠches du curseur.
+Tapez votre texte comme vous le voulez.
+INS       insere un espace.
+DEL       efface le caractŠre courrant.
+BACKSPACE efface le caractŠre pr‚c‚dent.
+F1        affiche cet ‚cran d'aide.
+F2        sauvegarde la page actuelle.
+F3        charge une nouvelle page.
+F4        insŠre une ligne vierge.
+F5        efface la ligne courante.
+F10       sortie du programme.
+Sauver la page actuelle ?
+Charger une nouvelle page ?
+Quelle page voulez-vous ‚diter ?
+Voulez-vous sauver votre Hyper-Text ?
+Voulez-vous charger un nouvel Hyper-Text ?
+----------
