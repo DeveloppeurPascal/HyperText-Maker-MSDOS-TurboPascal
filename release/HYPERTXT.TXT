@@ -1,0 +1,101 @@
+.; ****************************************************************************
+.;
+.; Hyper Text Maker
+.; (c) Patrick Pr‚martin 1991/1992/1993
+.; (c) Olf Software
+.;
+.; Ce logiciel est distribu‚ en tant que shareware, n'oubliez pas de demander
+.; la licence correspondante.
+.;
+.; ****************************************************************************
+.;
+.; Label de l'‚cran qui se chargera en premier.
+.START main
+.;
+.; ****************************************************************************
+.;
+.; Palette de couleurs par d‚faut (1..7)
+.COLOR 2
+.;
+.; ****************************************************************************
+.;
+.; Toutes les lignes commen‡ant par '.;' sont des commentaires et seront donc
+.; ignor‚es lors de la compilation.
+.;
+.; ****************************************************************************
+.;
+.; D‚claration d'un label (d‚but d'un texte d'au moins une page)
+.TOPIC ecran1
+
+
+
+
+
+       Hyper-Text Maker v1.1
+
+
+
+
+       Cr‚‚ par Patrick Pr‚martin en 1991,1992 et 1993
+
+
+       Distribu‚ comme logiciel SHAREWARE par Olf Software.
+
+
+
+
+
+       {INDEX=Pour aller au menu}, cliquez cette zone.
+
+
+       Les zones ... en haut et bas de page permettent de changer d'‚cran. Il vous suffit de cliquer dessus … l'aide de la souris,
+ou d'appuyer sur TAB puis ENTREE.
+
+
+.;
+.; ****************************************************************************
+.;
+.topic INDEX
+.; Le COLOR suivant permet de changer la couleur de la page en cours...
+.color 1
+
+
+
+Cet ‚cran a volontairement ‚t‚ laiss‚ vide.
+
+
+
+
+
+
+
+
+
+
+
+
+{{Cela ne vous rappelle-t-il rien ?}
+
+
+
+
+
+
+
+{MAIN=vous permet d'aller … l'‚cran de d‚part et d'ins‚rer des '}}' et des {
+dans les boutons} mais vous n'ˆtes pas
+oblig‚ d'utiliser les accolades...
+.;
+.; ****************************************************************************
+.;
+.topic main
+
+
+
+
+
+           {index=‚cran d'index}
+           {ecran1=ecran 1}
+.;
+.; ****************************************************************************
+.;
